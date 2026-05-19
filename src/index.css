@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&family=JetBrains+Mono:wght@400;500;700&family=Outfit:wght@400;500;600;700;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  
+  /* Custom Pistachio/Light Green shades */
+  --color-pistachio-50: #f4f9f1;
+  --color-pistachio-100: #e7f2e1;
+  --color-pistachio-200: #d2e6c7;
+  --color-pistachio-300: #b2d3a4;
+  --color-pistachio-400: #93c572; /* The base pistachio color */
+  --color-pistachio-500: #74ae51;
+  --color-pistachio-600: #5b8d3f;
+  --color-pistachio-700: #466c32;
+  --color-pistachio-800: #3a582b;
+  --color-pistachio-900: #314a27;
+}

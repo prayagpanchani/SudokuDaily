@@ -1,0 +1,6 @@
+{
+  "name": "SudokuDaily",
+  "description": "A daily Sudoku challenge with level-based puzzles, ranks, and a global leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
